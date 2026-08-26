@@ -48,7 +48,7 @@
 
 <hr/>
 
-<h2 align="center">🚀 Featured Repositories 🚀</h2>
+<h2 align="center">🚀 My Repositories 🚀</h2>
 
 <br/>
 
@@ -62,7 +62,7 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dikshu015&repo=smart-claims-processor&theme=react&border_radius=10" />
 </a>
 
-<br/>
+<br/><br/>
 
 <a href="https://github.com/Dikshu015/ENTERPRISE-GRADE-RAG">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dikshu015&repo=ENTERPRISE-GRADE-RAG&theme=react&border_radius=10" />
@@ -72,7 +72,7 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dikshu015&repo=distributed-rate-limiter&theme=react&border_radius=10" />
 </a>
 
-<br/>
+<br/><br/>
 
 <a href="https://github.com/Dikshu015/chicken-disease-classification-project-end2end">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dikshu015&repo=chicken-disease-classification-project-end2end&theme=react&border_radius=10" />
