@@ -79,7 +79,7 @@
 </a>
 
 <a href="https://github.com/Dikshu015/tf-deep-learning">
-  <img src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=Dikshu015&repo=AI-Risk-Management-System&theme=react&border_radius=10" />
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=Dikshu015&repo=tf-deep-learning&theme=react&border_radius=10" />
 </a>
 
 </div>
