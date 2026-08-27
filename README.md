@@ -78,7 +78,7 @@
   <img src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=Dikshu015&repo=chicken-disease-classification-project-end2end&theme=react&border_radius=10" />
 </a>
 
-<a href="https://github.com/Dikshu015/AI-Risk-Management-System">
+<a href="https://github.com/Dikshu015/tf-deep-learning">
   <img src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=Dikshu015&repo=AI-Risk-Management-System&theme=react&border_radius=10" />
 </a>
 
