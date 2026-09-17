@@ -64,8 +64,8 @@
 
 <br/><br/>
 
-<a href="https://github.com/Dikshu015/ENTERPRISE-GRADE-RAG">
-  <img src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=Dikshu015&repo=ENTERPRISE-GRADE-RAG&theme=react&border_radius=10" />
+<a href="https://github.com/Dikshu015/production-ready-zomato-clone">
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=Dikshu015&repo=production-ready-zomato-clone&theme=react&border_radius=10" />
 </a>
 
 <a href="https://github.com/Dikshu015/distributed-rate-limiter">
